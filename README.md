@@ -1,1 +1,2 @@
-# Projeto-de-vida-do-gasparelo-chan
+# Contador-Regressivo
+Projeto de vida: organizando objetivos futuros com matemática aplicada. 
